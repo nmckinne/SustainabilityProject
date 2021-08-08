@@ -1,4 +1,4 @@
-# SustainabilityProject: Using Sustainability Indicators from the UN's Global Sustainability Goals to Predict Political Stability and Absence of Violence in countries. 
+# Sustainability Project: Using Sustainability Indicators from the UN's Global Sustainability Goals to Predict Political Stability and Absence of Violence in countries. 
 
 In 2015, all UN Member States developed a set of 17 Global Sustainability Goals to allow for peace and prosperity globally. The set of goals include those to reduce poverity and inequality, improve health and education, increase economic growth, increase access to clean water and food, and do so in a manner that protects the land and oceans.
 
