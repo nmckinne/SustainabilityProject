@@ -8,6 +8,8 @@ Climate change induced floods and droughts, poverity, lack of education, and lac
 
 The Sustainability Indicators data were obtained from World Bank:https://api.worldbank.org/v2/sources/46/indicators Documentation on the Sustainability Goals can be found here: https://datatopics.worldbank.org/sdgatlas/ The Worldwide Governance Indicators data were also obtained from World Bank: https://datacatalog.worldbank.org/dataset/worldwide-governance-indicators.  Yearly Political Stability and Sustainability Indicator Data were obtained for each available country for a ten-year period from 2010-2020. From the Wold Bank DataBank Worldwide Governance Indicators, Political Stability and Absence of Violence/Terrorism "measures perceptions of the likelihood of political instability and/or politically-motivated violence, including terrorism. The estimate gives the country's score on the aggregate indicator, in units of a standard normal distribution, i.e. ranging from approximately -2.5 to 2.5." 
 
+![Political Stability Map](/Political_Stablility_Map.png)
+
 This model is important because it may help predict which countries are headed for periods of political instability and what could be done to help prevent that by understanding which features are the most predictive. 
 
 # Preprocessing
